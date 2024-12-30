@@ -1,2 +1,9 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Asset files should be treated by git as binary
+*.png binary
+*.jpg binary
+*.ttf binary
+*.mp3 binary
+*.wav binary
+*.raw binary
+*.obj binary
+*.gltf binary
